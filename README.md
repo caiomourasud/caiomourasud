@@ -2,10 +2,10 @@
 
 ![GitHub watchers](https://img.shields.io/github/watchers/caiomourasud/caiomourasud?label=Profile%20views&style=plastic)
 
-- 👨🏻‍💻 I'm currently working on <a href="https://www.cebim.com.br/" target="_blank">CEBIM</a> <code>(Centro Brasileiro de Informática Médica)</code>
-- 🌱 I’m currently stydying on
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <a href="mailto:caiomourasud@gmail.com">caiomourasud@gmail.com</a>
+- 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://www.cebim.com.br/" target="_blank">CEBIM</a> <code>(Centro Brasileiro de Informática Médica)</code>
+- 🌱 &nbsp; I’m currently coding in <a href="https://flutter.dev/" target="_blank">Flutter</a>.
+- 📲 &nbsp; I'm looking for Flutter challenges to update my portfolio.
+- 📫 &nbsp; How to reach me: <a href="mailto:caiomourasud@gmail.com">caiomourasud@gmail.com</a>
 
 <h2>Connect with me:</h2>
 <div>
