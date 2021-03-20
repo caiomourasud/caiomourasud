@@ -9,6 +9,7 @@
 <div>
 <a href="https://www.linkedin.com/in/caio-moura-1921499a/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="40"></a>
 <a href="https://www.facebook.com/caiomourasud" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40"></a>
+  <a href="https://www.instagram.com/caiomourasud/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" height="40"></a>
 </div>
 
 </br>
