@@ -7,7 +7,7 @@
 
 <h2>Connect with me:</h2>
 <div>
-<a href="https://www.linkedin.com/in/caio-moura-1921499a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40"></a>
+<a href="https://www.linkedin.com/in/caio-moura-1921499a/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="40"></a>
 <a href="https://www.facebook.com/caiomourasud" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40"></a>
 </div>
 
@@ -27,7 +27,7 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomourasud&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomourasud&theme=dark)](https://github.com/anuraghazra/github-readme-stats) --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomourasud&theme=dark&show_icons=true)
 
