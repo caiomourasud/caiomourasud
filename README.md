@@ -1,7 +1,4 @@
-<h1 align=center>Hi👋, I’m Caio Moura</h1>
-
-
-
+<h1 align=center>Hello, I’m Caio Moura</h1> 
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
