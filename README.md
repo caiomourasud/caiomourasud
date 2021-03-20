@@ -7,7 +7,7 @@
 
 <h2 id="connections">Connect with me:</h2>
 <div>
-<a href="https://https://angular.io//" target="_blank"><img src="https://cdn-images-1.medium.com/max/184/1*nbJ41jD1-r2Oe6FsLjKaOg@2x.png" alt="Angular" height="50"></a>
+<a href="https://www.linkedin.com/in/caio-moura-1921499a/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="40"></a>
 </div>
 
 <h2 id="tools">Languages and tools:</h2>
@@ -24,7 +24,7 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomourasud&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomourasud&theme=dark&show_icons=true)
 
