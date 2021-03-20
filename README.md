@@ -7,7 +7,7 @@
 
 <h2>Connect with me:</h2>
 <div>
-<a href="https://www.linkedin.com/in/caio-moura-1921499a/" target="_blank"><img src="https://user-images.githubusercontent.com/45606785/111884401-40363880-89a0-11eb-9d5c-5aeed95c194b.png" alt="LinkedIn" height="40"></a>
+<a href="https://www.linkedin.com/in/caio-moura-1921499a/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-128/linkedin-160-461814.png" alt="LinkedIn" height="40"></a>
 <a href="https://www.facebook.com/caiomourasud" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40"></a>
   <a href="https://www.instagram.com/caiomourasud/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" height="40"></a>
 </div>
