@@ -3,7 +3,7 @@
 <h3 align=center>I’m a Flutter Developer  <a href="https://flutter.dev/" target="_blank"><img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="Flutter" height="16"></a></h3> 
 
 
-![GitHub watchers](https://img.shields.io/github/watchers/caiomourasud/caiomourasud?label=Profile%20views&style=plastic)
+![](https://komarev.com/ghpvc/?username=caiomourasud&color=Blue)
 
 - 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://www.cebim.com.br/" target="_blank">CEBIM</a> <code>(Centro Brasileiro de Informática Médica)</code>
 - 🌱 &nbsp; I’m currently coding in <a href="https://flutter.dev/" target="_blank">Flutter</a>.
