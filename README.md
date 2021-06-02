@@ -12,7 +12,7 @@
 
 # Connect with me:
 <div>
-  <a href="https://www.linkedin.com/in/caio-moura-1921499a/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-128/linkedin-160-461814.png" alt="LinkedIn" height="40"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/caiomourasud/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-128/linkedin-160-461814.png" alt="LinkedIn" height="40"></a>&nbsp;
   <a href="https://www.facebook.com/caiomourasud" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40"></a>&nbsp;
   <a href="https://www.instagram.com/caiomourasud/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" height="40"></a>
 </div>
