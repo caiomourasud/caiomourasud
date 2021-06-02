@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=caiomourasud&color=blue)
 
-- 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://www.cebim.com.br/" target="_blank">CEBIM</a> <code>(Centro Brasileiro de Informática Médica)</code>
+- 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://www.cebim.com.br/" target="_blank">REDX</a>.
 - 🌱 &nbsp; I’m currently coding in <a href="https://flutter.dev/" target="_blank">Flutter</a>.
 - 📲 &nbsp; I'm looking for Flutter challenges to update my portfolio.
 - 📫 &nbsp; How to reach me: <a href="mailto:caiomourasud@gmail.com">caiomourasud@gmail.com</a>
