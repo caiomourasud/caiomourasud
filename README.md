@@ -35,7 +35,7 @@
 <div>
   <a href="https://git-scm.com/" target="_blank"><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="GitHub" height="40"></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="40"></a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://appmasters.io/static/firebase-logo-c24b6b9c0fcd84c7b258879880472660.png" alt="Firebase" height="40"></a>&nbsp;
+  <a href="https://firebase.google.com/" target="_blank"><img src="[https://appmasters.io/static/firebase-logo-c24b6b9c0fcd84c7b258879880472660.png](https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/firebase/images/lockup.svg)" alt="Firebase" height="40"></a>&nbsp;
   <a href="https://www.byupathway.org/" target="_blank"><img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" alt="Pathway Connect" height="40"></a>
 </div>
 
