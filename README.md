@@ -25,8 +25,7 @@
   <a href="https://flutter.dev/" target="_blank"><img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="Flutter" height="40"></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="40"></a>&nbsp;
   <a href="https://angular.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" alt="Angular" height="40"></a>&nbsp;
-  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="Adobe Photoshop" height="40"></a>&nbsp;
-  <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/xd.svg" alt="Adobe XD" height="40"></a>
+  <a href="https://www.figma.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png?20190122211436" alt="Adobe Photoshop" height="40"></a>&nbsp;
 </div>
 
 </br>
