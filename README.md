@@ -1,11 +1,11 @@
 <h1 align=center>Hello, I’m Caio Moura 👋</h1> 
 
-<h3 align=center>I’m a Flutter App Developer  <a href="https://flutter.dev/" target="_blank"><img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="Flutter" height="16"></a></h3> 
+<h3 align=center>I’m a Flutter App Developer <a href="https://flutter.dev/" target="_blank"><img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" alt="Flutter" height="22"></a>&nbsp;</h3> 
 
 
 ![](https://komarev.com/ghpvc/?username=caiomourasud&color=blue)
 
-- 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://www.cebim.com.br/" target="_blank">REDX</a>.
+- 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://storyy.co" target="_blank">Storyy</a>.
 - 🌱 &nbsp; I’m currently coding in <a href="https://flutter.dev/" target="_blank">Flutter</a>.
 - 📲 &nbsp; I'm looking for Flutter challenges to update my portfolio.
 - 📫 &nbsp; How to reach me: <a href="mailto:caiomourasud@gmail.com">caiomourasud@gmail.com</a>
@@ -21,8 +21,8 @@
 
 # Languages and tools:
 <div>
-  <a href="https://dart.dev/" target="_blank"><img src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" alt="Dart" height="40"></a>&nbsp;
-  <a href="https://flutter.dev/" target="_blank"><img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="Flutter" height="40"></a>&nbsp;
+  <a href="https://dart.dev/" target="_blank"><img src="https://www.svgrepo.com/show/353631/dart.svg" alt="Dart" height="40"></a>&nbsp;
+  <a href="https://flutter.dev/" target="_blank"><img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" alt="Flutter" height="40"></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="40"></a>&nbsp;
   <a href="https://angular.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" alt="Angular" height="40"></a>&nbsp;
   <a href="https://www.figma.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png?20190122211436" alt="Adobe Photoshop" height="40"></a>&nbsp;
@@ -32,7 +32,7 @@
 
 # Learning or improving:
 <div>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="GitHub" height="40"></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" height="40"></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="40"></a>&nbsp;
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" height="40"></a>&nbsp;
   <a href="https://www.byupathway.org/" target="_blank"><img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" alt="Pathway Connect" height="40"></a>
